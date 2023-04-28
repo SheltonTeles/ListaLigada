@@ -1,4 +1,8 @@
 public class LinkedList<T> {
 
-    private Node head;
+    public static class Node{
+        private Node head;
+    
+    }
+    
 }
